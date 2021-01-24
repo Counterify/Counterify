@@ -1,5 +1,5 @@
 # Counterify
-Counterify is the site to go when you need tech assistants or a free CDN! 
+Counterify is the site to go when you need tech assistance or a free CDN! 
 
 ## Github
 Counterify uses Github to manage bug reports, issues and everything else.
